@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=DSP.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DSP.SchDoc|FileName=DSP_2.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DSP.SchDoc|FileName=DSP_connectors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DSP.SchDoc|FileName=MEMORY2.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=DSP.SchDoc|FileName=MEMORY.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=DSP.SchDoc|FileName=power.SchDoc|SheetNumber=6
